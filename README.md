@@ -2,10 +2,10 @@
 
 Aiffel 교육과정의 Quest 과제 결과 저장
 
-폴더구성
-퀘스트별 폴더 구조 예시:
+### 폴더구성
 
 AIFFEL QUEST
+
 |--Exploration
 
 | |--Quest1
