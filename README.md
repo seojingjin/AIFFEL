@@ -1,27 +1,12 @@
-## AIffel START
+## AIffel
 
 Aiffel 교육과정의 Quest 과제 결과 저장
 
-### 폴더구성
-
-AIFFEL QUEST
-
-|--Exploration
-
-| |--Quest1
-
-| | |--.ipynb
-
-| | |--README.md
-
-| |--Quest2
-
-| |... (Quest1과 동일한 구조)
-
-|GoingDeeper
-
-|... (Exploration과 동일한 구조)
-
-|MainQuest
-
-|... (Exploration과 동일한 구조)
+### Exploration
+---
+|Contents|Practice|Project|
+|---|---|---|
+|ex01.Regression|Bike sharing|자전거 대여량 예측|
+|ex02.Regression|kaggle competetion|House Prcie Prediction|
+|ex03.Face Detection|카메라 스티커 앱|고양이 수염 스티커|
+|ex04.Text Classification|IMDB 영화리뷰 감성 분석|네이버 영화리뷰 감성 분석|
