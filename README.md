@@ -1,7 +1,3 @@
-## AIffel
-
-Aiffel 교육과정의 Quest 과제 결과 저장
-
 ### Exploration
 ---
 |Date|Contents|Practice|Project|
