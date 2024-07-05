@@ -15,6 +15,6 @@
 ---
 |Date|Contents|Project|
 |---|---|---|---|
-|7/1|GD01. Tokenizer||
-|7/3|GD02. Vectorizer||
+|7/1|GD01. Tokenizer|-|
+|7/3|GD02. Vectorizer|-|
 |7/5|GD03. Embedding|모든 영화 장르 간 편향성 측정하기|
