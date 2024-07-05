@@ -9,3 +9,12 @@
 |6/12|ex05.Text Classification|IMDB 영화리뷰 감성 분석|네이버 영화리뷰 감성 분석|
 |6/13|ex06.news summary|Text summarization|뉴스기사 요약|
 |6/20|ex07.Transformer|Transformer구현을 통한 영어 챗봇 만들기|한국어 챗봇 만들기
+
+
+### Gooing Deep _ NLP
+---
+|Date|Contents|Title|Project|
+|---|---|---|---|
+|7/1|GD01. Tokenizer|텍스트 데이터 다루기 & 멋진 단어사전 만들기||
+|7/3|GD02. Vectorizer|텍스트의 분포로 벡터화하기 & 뉴스 카테고리 다중분류||
+|7/5|GD03. Embedding|워드 임베딩 & 임베딩 내 편향성 알아보기|WEAT score with movies genre|
